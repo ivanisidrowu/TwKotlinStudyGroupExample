@@ -131,6 +131,7 @@ data class KotlinUser(val id: Long,
 Java overloads can be replaced with one function in Kotlin
 
 #### Example 3
+Java
 ```java
 private void sendInfo(String content, long Time, String tag) { /* ... */ }
 private void sendInfo(String content, long Time) { /* ... */ }
@@ -138,6 +139,7 @@ private void sendInfo(String content, String tag) { /* ... */ }
 private void sendInfo(String content) { /* ... */ }
 ```
 
+Kotlin
 ```kotlin
 private fun sendInfo(
    content: String,
