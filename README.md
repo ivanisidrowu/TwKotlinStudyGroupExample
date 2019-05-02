@@ -1,5 +1,5 @@
 # TwKotlinStudyGroupExample
-Kotlin examples for study group via Taiwan Kotlin User Group
+Kotlin examples for study group in Taiwan Kotlin User Group
 
 ## Examples
 1. Null safety
