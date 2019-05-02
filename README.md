@@ -1,6 +1,10 @@
 # TwKotlinStudyGroupExample
 Kotlin examples for study group in Taiwan Kotlin User Group
 
+Check out the description below or go to speaker deck for more information.
+
+SpeakerDeck: https://speakerdeck.com/ivanw/using-kotlin-in-android
+
 ## Examples
 1. Null safety
 2. Data class
