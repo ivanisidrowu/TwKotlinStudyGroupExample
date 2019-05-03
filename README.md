@@ -4,6 +4,7 @@ Kotlin examples for study group in Taiwan Kotlin User Group
 Check out the description below or go to speaker deck for more information.
 
 SpeakerDeck: https://speakerdeck.com/ivanw/using-kotlin-in-android
+
 Google Docs: https://docs.google.com/presentation/d/1-gxb90Oh4-kG3eskXqnFrnWKPHFUL9ELGOrS3T6QTUU/edit?usp=sharing
 
 ## Examples
